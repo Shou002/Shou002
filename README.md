@@ -13,6 +13,19 @@
   <img src="https://skillicons.dev/icons?i=java,js" />
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
+<br>
+<br>
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shou002&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Shou's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Shou002&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shou002&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Shou's Most Used Languages" />
+</div>
+
+<hr>
 <!--
 **Shou002/Shou002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
