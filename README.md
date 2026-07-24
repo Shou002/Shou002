@@ -3,8 +3,8 @@
 </h1>
 
 ### 🌱CS grad seeking my first engineer role.Learning by building.
--🔭I'm currently working through [Crafting Interpreters](https://www.craftinginterpreters.com/)
-<li>-📫 How to reach me <strong><a href="yasitha.lakshan002@gmail.com">yasitha.lakshan002@gmail.com</a></strong></li>
+-🔭I'm currently working through [Crafting Interpreters](https://www.craftinginterpreters.com/)<br>
+-📫 How to reach me <strong><a href="yasitha.lakshan002@gmail.com">yasitha.lakshan002@gmail.com</a></strong>
 
 <!--
 **Shou002/Shou002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
