@@ -15,6 +15,7 @@
 </p>
 <br>
 <br>
+<hr>
 ## ⚡️ Stats
 
 <br>
