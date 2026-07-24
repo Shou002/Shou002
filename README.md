@@ -5,7 +5,14 @@
 ### 🌱CS grad seeking my first engineer role.Learning by building.
 -🔭I'm currently working through [Crafting Interpreters](https://www.craftinginterpreters.com/)<br>
 -📫 How to reach me <strong><a href="yasitha.lakshan002@gmail.com">yasitha.lakshan002@gmail.com</a></strong>
+<br>
+<br>
+## 🛠️ Languages and Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 <!--
 **Shou002/Shou002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
